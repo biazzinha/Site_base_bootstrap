@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+body{
+    background-color: rgb(187, 163, 245);
+}
+.col{
+    background-color: rgba(244, 244, 245, 0.966);
+}
+.container{
+    margin-top:20px;
+    border-radius: 15px;
+}
+a{font-family: 'Josefin Sans', sans-serif;
+    Color:#000000;
+}
